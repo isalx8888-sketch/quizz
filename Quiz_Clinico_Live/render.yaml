@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: quiz-clinico-live
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: QUIZ_HOST_PASSWORD
+        generateValue: true

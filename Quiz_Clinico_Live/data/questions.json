@@ -1,0 +1,41 @@
+{
+  "title": "Colestasis pediátrica · Sesión interactiva",
+  "questions": [
+    {
+      "text": "¿Qué hallazgo obliga a estudiar una ictericia prolongada en un lactante?",
+      "options": [
+        "Bilirrubina directa > 1 mg/dl",
+        "Bilirrubina total > 5 mg/dl, siempre",
+        "Coloración amarilla aislada en las primeras 24 horas",
+        "Hemoglobina normal"
+      ],
+      "correct": 0,
+      "seconds": 25,
+      "explanation": "Una bilirrubina directa/conjugada superior a 1 mg/dl es patológica y requiere evaluación. Interpretar siempre según la edad y la situación clínica."
+    },
+    {
+      "text": "En un lactante con ictericia, ¿qué dato aumenta especialmente la sospecha de atresia biliar?",
+      "options": [
+        "Acolia persistente",
+        "Regurgitaciones leves",
+        "Estornudos aislados",
+        "Hipo tras la toma"
+      ],
+      "correct": 0,
+      "seconds": 20,
+      "explanation": "Las heces hipocolóricas o acólicas son una señal de alarma de obstrucción del flujo biliar y precisan valoración preferente."
+    },
+    {
+      "text": "¿Cuál es el principio más importante ante una sospecha de atresia biliar?",
+      "options": [
+        "Esperar a que desaparezca la ictericia",
+        "Priorizar el diagnóstico y la derivación precoz",
+        "Iniciar fototerapia indefinidamente",
+        "Posponer el estudio hasta los 6 meses"
+      ],
+      "correct": 1,
+      "seconds": 20,
+      "explanation": "El tiempo importa: la evaluación y derivación tempranas favorecen el tratamiento oportuno, incluida la portoenterostomía de Kasai cuando está indicada."
+    }
+  ]
+}
